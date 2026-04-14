@@ -1,33 +1,31 @@
-# Super GameTimer
+# Super GameTimer — Support
 
-**A chess-clock style turn timer for iPhone** — built for board games, card night, and anywhere you need fair, readable time limits without fuss.
+**Super GameTimer** is an iPhone turn timer for board games and chess-clock style play: dual time banks, one-tap pass, optional Fischer increment and delay modes, multiple players, audio cues, and profiles. Everything runs on your device; no account is required.
 
-## Why it exists
+## Requirements
 
-Two (or more) players, one table, and a clock everyone can see. Super GameTimer keeps **dual time banks** in view, uses a **large pass control** so turns are obvious, and stays out of the way once the match starts.
+- **iPhone** with **iOS 17** or later  
+- Designed for phone use; iPad may run the app in compatibility mode depending on your device
 
-## Highlights
+## Help inside the app
 
-- **One-tap pass** — hand the clock to the next player; the button shows **remaining time** and **who is up next**.
-- **Fischer increment** and **simple or Bronstein delay** when your group wants tournament-style rules.
-- **Two to eight players**, **pause** and **restart** from a dedicated Match menu (no accidental taps on the main clock).
-- **Minute cues** and **faster ticks in the last 20 seconds** so the end of a turn never sneaks up in silence.
-- **Sound and haptic** when time runs out on the active side.
-- **Profiles and appearance options** so your usual setups load quickly.
-- **No account** — presets and settings stay on your device.
+Use the in-app help and settings (appearance, sound, timing options) to adjust how the clock behaves. Destructive actions such as **End game** and **Restart** are in the **Match** menu so they are not tapped by accident during play.
 
-## Get the app
+## Reporting a problem or requesting a feature
 
-**On the App Store:** search for **Super GameTimer**, or paste your public App Store link here after release (in App Store Connect: **App → General → Apple ID** / share link from the product page).
+1. Check that you are on the **latest iOS** and the **latest app version** from the App Store.  
+2. If something still looks wrong, open a **[GitHub issue](https://github.com/devsurge/ios-public/issues/new)** in this organization’s public repo. In the title or description, mention **Super GameTimer** and what you were doing when the issue occurred (device model and iOS version help too).
 
-Example format once you have the ID:
+If issues are disabled on the repository, use the **Support** contact method listed on the app’s App Store product page (Apple passes along the URL you configure in App Store Connect).
 
-`https://apps.apple.com/app/super-gametimer/id0000000000`
+## Privacy
 
-## Help & feedback
+The app does not require a login. Profiles and settings stay on your device. For full details on advertising, analytics, and tracking disclosures, see the **[Privacy Policy](PRIVACY.md)**. The App Store **App Privacy** section and in‑app prompts (such as **App Tracking Transparency**) describe how data is used on your device.
 
-- **[Support](SUPPORT.md)** — requirements, troubleshooting, how to report an issue (same folder in this repo).
+## Trademark
+
+**Super GameTimer** is the product name for this app. Third-party games mentioned on marketing or store pages are trademarks of their respective owners.
 
 ---
 
-*Marketing / product overview for App Store **Marketing URL** and sharing. Repository: [devsurge/ios-public](https://github.com/devsurge/ios-public).*
+*This page is maintained for App Store **Support URL** compliance and user help. Repository: [devsurge/ios-public](https://github.com/devsurge/ios-public).*
