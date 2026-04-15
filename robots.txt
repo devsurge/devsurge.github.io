@@ -1,0 +1,5 @@
+# https://devsurge.github.io/
+User-agent: *
+Allow: /
+
+Sitemap: https://devsurge.github.io/sitemap.xml
