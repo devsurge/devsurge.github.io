@@ -347,3 +347,20 @@ ul.feature-list li::marker {
   font-size: 0.95rem;
   color: var(--muted);
 }
+
+.app-nav {
+  border-bottom: 1px solid var(--border);
+  background: rgba(0, 0, 0, 0.15);
+  padding: 0.65rem 1.25rem;
+}
+
+.app-nav__inner {
+  max-width: 56rem;
+  margin: 0 auto;
+}
+
+.nav--apps a[aria-current="page"],
+.app-nav a[aria-current="page"] {
+  color: var(--accent);
+  font-weight: 600;
+}
