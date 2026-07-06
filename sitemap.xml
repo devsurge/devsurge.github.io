@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://devsurge.github.io/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://devsurge.github.io/MARKETING.html</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -12,6 +17,21 @@
   </url>
   <url>
     <loc>https://devsurge.github.io/gametimer/SUPPORT.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://devsurge.github.io/zenkari/MARKETING.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://devsurge.github.io/zenkari/PRIVACY.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://devsurge.github.io/zenkari/SUPPORT.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
