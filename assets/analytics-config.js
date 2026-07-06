@@ -1,10 +1,7 @@
 /**
- * Website measurement IDs for devsurge.github.io
+ * Google Ads tag ID (optional). When set, add to assets/gtag-init.js:
+ *   gtag("config", "AW-XXXXXXXXX");
  *
- * GA4: Google Analytics → Admin → Data streams → Web → Measurement ID (G-…)
- * Ads: Google Ads → Goals → Conversions → Tag setup → Google tag ID (AW-…)
- *
- * Leave a value empty ("") to disable that tag. Redeploy after editing.
+ * GA4 measurement ID is configured in assets/gtag-init.js and the gtag.js script tag on each page.
  */
-window.DEVSURGE_GA4_ID = "G-V6BX9HDWN4";
 window.DEVSURGE_GOOGLE_ADS_ID = "";
